@@ -1,4 +1,4 @@
-## I'm Saifa Pirani
+# Hi, I'm Saifa Pirani
 PhD Student, University of North Carolina at Chapel Hill
 Department of Psychology and Neuroscience
 
