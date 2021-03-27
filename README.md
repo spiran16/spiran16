@@ -1,6 +1,8 @@
 # Hi, I'm Saifa Pirani
 PhD Student, University of North Carolina at Chapel Hill
 Department of Psychology and Neuroscience
+\
+The publicly available repositories: Simulations and Example-Assignments contain examples of R code.  
 
 
 <!---
