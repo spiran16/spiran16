@@ -1,6 +1,6 @@
-# Hi, I'm Saifa (Sarah) Pirani
+# Hi, I'm Sarah Pirani
 (she/her/hers)
-PhD Student, University of North Carolina at Chapel Hill
+PhD Candidate, University of North Carolina at Chapel Hill
 Department of Psychology and Neuroscience
 \
 The publicly available repositories: Simulations and Example-Assignments contain samples of my R code.
